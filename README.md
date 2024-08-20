@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Koosha+Omidian!;" />
 </h1>
 
-<h3 align="center">An Undergraduate Student in Electircal and Computer Engineering at the University of Toronto.</h3>
+<h3 align="center">An Undergraduate Student in Electrical and Computer Engineering at the University of Toronto.</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 🔭 I’m currently working at **Intelligent Sensory Microsystems Laboratory**
  
- 🌱 I’m currently learning **Hardware-Efficient Deep Learning Models, Neural Data Processing, and Many More!**
+ 🌱 I’m currently learning about **Hardware-Efficient Deep Learning Models, Neural Data Processing, and Much More!**
 
 💬 Ask me about **PyTorch, Numpy, Pandas... or anything by reaching out**
 
