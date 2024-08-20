@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Koosha+Omidian!;" />
 </h1>
 
-<h3 align="center">A passionate computer engineer from Canada 🇨🇦</h3>
+<h3 align="center">An Undergraduate Student in Electircal and Computer Engineering at the University of Toronto.</h3>
 
 <br/>
 
