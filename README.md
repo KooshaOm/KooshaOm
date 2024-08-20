@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Hardware-Efficient Deep Learning Models, Neural Data Processing, and Many More!**
 
-💬 Ask me about **PyTorch, Numpy, Pandas... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **PyTorch, Numpy, Pandas... or anything by reaching out**
 
 ⚡ Fun fact **I love watching and playing soccer**
 
