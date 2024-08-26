@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/koosha-omidian-7601552a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://drive.google.com/file/d/1zrqS3fDSNy2WgWJnGphOj-j5Z-xNK4hP/view?usp=sharing" target="_blank">
+<!--   <a href="https://drive.google.com/file/d/1zrqS3fDSNy2WgWJnGphOj-j5Z-xNK4hP/view?usp=sharing" target="_blank"> -->
      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
